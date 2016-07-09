@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 world
+=======
+wangcai
+>>>>>>> ee41caf1417b41c7281ce8dd17782e4966883eef
