@@ -1,6 +1,6 @@
 //异步创建文件夹
 function mkdir(path){
-    index = arguments[1] || 1;
+    var index = arguments[1] || 1;
     var ary = path.split('/');
     if (index > ary.length) {
         return
